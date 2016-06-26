@@ -21,8 +21,8 @@ h1 {
     font-size: 35px;
 }
 
-@media only screen (max-width: 48em) {
+@media (max-width: 500px) {
     h1 {
-        font-size: 60px;
+        font-size: 50px;
     }
 }
