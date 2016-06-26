@@ -20,3 +20,9 @@ h1 {
     color: rgba(60, 60, 60, .8);
     font-size: 35px;
 }
+
+@media only screen (max-width: 48em) {
+    h1 {
+        font-size: 60px;
+    }
+}
